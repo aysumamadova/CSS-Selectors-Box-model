@@ -35,8 +35,11 @@ body{
 }
 .titles li{
     padding-top: 5%;
+    color: white;
 }
-
+p{
+    width: 95%;
+}
 
 .content{
     padding-left: 5%;
@@ -50,6 +53,9 @@ body{
 .content .name h1 span{
     color: rgb(189, 93, 56);
    
+}
+a{
+    text-decoration: none;
 }
 .content .contact{
     color: #6c757d;
@@ -146,15 +152,15 @@ body{
 }
 .content .intro7 .name3 {
     
-    padding-right: 37%;
+    padding-right: 40%;
 }
 .content .intro8 .name1 p{
     
-    padding-right:25%;
+    padding-right:30%;
 }
 .content .intro8 .name3 {
     
-    padding-right: 52%;
+    padding-right: 50%;
 }
 .content .intro8 .info{
     padding-left: 15%;
@@ -165,12 +171,12 @@ body{
 }
 .content .intro9 .name1 p{
     
-    padding-right:10%;
+    padding-right:20%;
     
 
 }
 .content .intro10 .name1 {
     
-    padding-right:30%;
+    padding-right:32%;
 }
 
